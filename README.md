@@ -1,2 +1,2 @@
 # projectElavator
-$김봄이
+# java, javascript
