@@ -1,2 +1,2 @@
 # projectElavator
-# java, javascript
+* 설계일
