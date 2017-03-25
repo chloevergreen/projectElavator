@@ -1,9 +1,9 @@
 package bom.elevator.model;
 
-public class Floor {
+public class FloorDto {
 	int floorNum;
 	
-	public Floor() {}
+	public FloorDto() {}
 	
 	public int getFloorNum() {
 		return floorNum;

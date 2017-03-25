@@ -1,6 +1,6 @@
 package bom.elevator.dao;
 
-interface Person {
+interface PersonDao {
 	int in();
 	int out();
 }

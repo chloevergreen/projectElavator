@@ -1,6 +1,6 @@
 package bom.elevator.model;
 
-public class Elevator {
+public class ElevatorDto {
 	private int speedType;
 	private int floorType;
 	private String name;
@@ -14,7 +14,7 @@ public class Elevator {
 	private int fullState;
 	private int doorState;
 	
-	public Elevator() {	}
+	public ElevatorDto() {	}
 	
 	public int getSpeedType() {
 		return speedType;

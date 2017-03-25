@@ -9,6 +9,8 @@
 		<title>Bom's Elevator</title>
 	</head>
 	<body>
-	김봄이
+<%
+	draqElevatorUtil(2);
+%>		
 	</body>
 </html>

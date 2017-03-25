@@ -1,10 +1,10 @@
 package bom.elevator.model;
 
-public class Person {
+public class PersonDto {
 	private int destinationFloor;
 	private int inOutState;
 	
-	public Person() {}
+	public PersonDto() {}
 	
 	public int getDestinationFloor() {
 		return destinationFloor;

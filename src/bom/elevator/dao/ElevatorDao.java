@@ -1,6 +1,6 @@
 package bom.elevator.dao;
 
-interface Elevator {
+interface ElevatorDao {
 	int move();
 	int stop();
 	int openDoor();

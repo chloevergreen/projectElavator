@@ -11,13 +11,13 @@ import javax.servlet.http.HttpServletResponse;
  * Servlet implementation class Floor
  */
 @WebServlet("/Floor")
-public class Floor extends HttpServlet {
+public class FloorController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public Floor() {
+    public FloorController() {
         super();
         // TODO Auto-generated constructor stub
     }

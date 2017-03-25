@@ -1,13 +1,13 @@
 package bom.elevator.model;
 
-public class Building 
+public class BuildingDto 
 {
 	private double floorCount;
 	private double basementFloorRange;
 	private double lowFloorRange;
 	private double highFloorRange;
 	
-	public Building() {	}
+	public BuildingDto() {	}
 	
 	public double getFloorCount() {
 		return floorCount;

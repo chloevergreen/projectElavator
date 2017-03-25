@@ -1,5 +1,5 @@
 package bom.elevator.dao;
 
-public interface Floor {
+public interface FloorDao {
 	int getFloorNum();
 }

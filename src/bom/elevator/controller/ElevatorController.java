@@ -11,13 +11,13 @@ import javax.servlet.http.HttpServletResponse;
  * Servlet implementation class Elevator
  */
 @WebServlet("/Elevator")
-public class Elevator extends HttpServlet {
+public class ElevatorController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public Elevator() {
+    public ElevatorController() {
         super();
         // TODO Auto-generated constructor stub
     }
